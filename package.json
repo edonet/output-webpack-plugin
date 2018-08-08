@@ -1,0 +1,9 @@
+{
+  "name": "@arted/output-webpack-plugin",
+  "version": "0.0.101",
+  "description": "output plugin for webpack",
+  "main": "index.js",
+  "repository": "git@github.com:edonet/output-webpack-plugin.git",
+  "author": "edonet <edonet@163.com>",
+  "license": "MIT"
+}
